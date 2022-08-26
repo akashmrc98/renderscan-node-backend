@@ -1,0 +1,11 @@
+renderscan_images
+node_modules
+.env
+combined.log
+error.log
+.vsocde
+coverage
+dist
+scans
+data
+uploads
